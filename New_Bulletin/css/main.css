@@ -1,0 +1,26 @@
+body{
+	background-color: yellow;
+	text-align: center;
+}
+h1{
+	font-family: 'Mali', cursive;
+	font-size:30px;
+	font-weight: 700px;
+}
+#second{
+	font-size: 22px;
+}
+h3{
+	font-size:14px;
+	font-weight: 500px;
+}
+.para{
+font-size: 12px;
+font-style: italic;;
+}
+.imgdiv{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	align-content: center;
+}
