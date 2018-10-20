@@ -42,7 +42,23 @@ a{
 	font-weight: 600px;
 	color:#F15B31;
 	margin: 0px 20px;
-	d
+	
+}
+a:hover{
+	border-bottom: 2px solid transparent;
+	border-color:white;
+}
+.name{
+	color:#F15B31;
+	font-weight: 700px;
+}
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
 }
 main{
 	width: 850px;
@@ -60,4 +76,21 @@ margin:0 auto;
 }
 img{
 	margin:40px 8px 0px 8px;
+}
+footer{
+	background-color: #0D2C40;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	font-size: 14px;
+	color:white;
+	letter-spacing: .08em;
+	font-weight: 500px;
+}
+.copyright{
+	float: left;
+	font-family: "Raleway", sans-serif;
+}
+.message{
+	float: right;
+	font-family: "Raleway", sans-serif;
 }
