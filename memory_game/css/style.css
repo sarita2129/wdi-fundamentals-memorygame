@@ -71,8 +71,15 @@ font-size: 18px;
 padding: 10px;
 margin:0 auto;
 }
-#divcard{
+#game-board{
 	background-color: #d9d9d9;
+}
+button{
+	padding: 5px;
+	background-color: #F15B31;
+	border-radius: 5px;
+	color: white;
+	text-decoration-style: bold;
 }
 img{
 	margin:40px 8px 0px 8px;
